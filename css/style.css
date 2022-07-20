@@ -25,7 +25,7 @@ ul {
 #card {
     width: 320px;
     display: grid;
-    margin: 90px auto;
+    margin: 130px auto;
     border-radius: 0.7rem;
     background-color: var(--color-Very-dark-blue-card-BG);
     overflow: hidden;
